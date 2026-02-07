@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects in Unity\\Archaeology-Adventure-CAFC-2026\\Archaeology-Adventure-CAFC-2026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD95843-3305-DB38-67A8-04A86A262166}|Assembly-CSharp.csproj|c:\\projects in unity\\archaeology-adventure-cafc-2026\\archaeology-adventure-cafc-2026\\assets\\scripts\\chestinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD95843-3305-DB38-67A8-04A86A262166}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chestinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD95843-3305-DB38-67A8-04A86A262166}|Assembly-CSharp.csproj|c:\\projects in unity\\archaeology-adventure-cafc-2026\\archaeology-adventure-cafc-2026\\assets\\scripts\\playermovement1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD95843-3305-DB38-67A8-04A86A262166}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD95843-3305-DB38-67A8-04A86A262166}|Assembly-CSharp.csproj|C:\\Projects in Unity\\Archaeology-Adventure-CAFC-2026\\Archaeology-Adventure-CAFC-2026\\assets\\scripts\\playermovementplatformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD95843-3305-DB38-67A8-04A86A262166}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovementplatformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD95843-3305-DB38-67A8-04A86A262166}|Assembly-CSharp.csproj|C:\\Projects in Unity\\Archaeology-Adventure-CAFC-2026\\Archaeology-Adventure-CAFC-2026\\assets\\scripts\\interacttonextscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD95843-3305-DB38-67A8-04A86A262166}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interacttonextscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChestInteract.cs",
+              "DocumentMoniker": "C:\\Projects in Unity\\Archaeology-Adventure-CAFC-2026\\Archaeology-Adventure-CAFC-2026\\Assets\\Scripts\\ChestInteract.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChestInteract.cs",
+              "ToolTip": "C:\\Projects in Unity\\Archaeology-Adventure-CAFC-2026\\Archaeology-Adventure-CAFC-2026\\Assets\\Scripts\\ChestInteract.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChestInteract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T13:57:16.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerMovementPlatformer.cs",
+              "DocumentMoniker": "C:\\Projects in Unity\\Archaeology-Adventure-CAFC-2026\\Archaeology-Adventure-CAFC-2026\\Assets\\Scripts\\PlayerMovementPlatformer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovementPlatformer.cs",
+              "ToolTip": "C:\\Projects in Unity\\Archaeology-Adventure-CAFC-2026\\Archaeology-Adventure-CAFC-2026\\Assets\\Scripts\\PlayerMovementPlatformer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovementPlatformer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T05:37:05.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerMovement1.cs",
+              "DocumentMoniker": "C:\\Projects in Unity\\Archaeology-Adventure-CAFC-2026\\Archaeology-Adventure-CAFC-2026\\Assets\\Scripts\\PlayerMovement1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement1.cs",
+              "ToolTip": "C:\\Projects in Unity\\Archaeology-Adventure-CAFC-2026\\Archaeology-Adventure-CAFC-2026\\Assets\\Scripts\\PlayerMovement1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T05:26:13.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InteractToNextScene.cs",
+              "DocumentMoniker": "C:\\Projects in Unity\\Archaeology-Adventure-CAFC-2026\\Archaeology-Adventure-CAFC-2026\\Assets\\Scripts\\InteractToNextScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InteractToNextScene.cs",
+              "ToolTip": "C:\\Projects in Unity\\Archaeology-Adventure-CAFC-2026\\Archaeology-Adventure-CAFC-2026\\Assets\\Scripts\\InteractToNextScene.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InteractToNextScene.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T04:54:40.807Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
