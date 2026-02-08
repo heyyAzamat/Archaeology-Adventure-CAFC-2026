@@ -1540,7 +1540,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 5
+  m_SortingOrder: 6
   m_Sprite: {fileID: 6219587212560528515, guid: 87cc5c1f41368794484d36c520df1963, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -46212,8 +46212,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -598.5, y: -457.69995}
-  m_SizeDelta: {x: 598.7, y: 50}
+  m_AnchoredPosition: {x: -442.28, y: -457.69995}
+  m_SizeDelta: {x: 907.26, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1042937213
 MonoBehaviour:
@@ -46235,9 +46235,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Press E to open chest
-
-'
+  m_text: "\u0421\u0430\u043D\u0434\u044B\u049B\u0442\u044B \u0430\u0448\u0443 \u04AF\u0448\u0456\u043D
+    E \u0431\u0430\u0441\u044B\u04A3\u044B\u0437\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -46502,7 +46501,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 5
+  m_SortingOrder: 6
   m_Sprite: {fileID: 6272868889371815816, guid: 87cc5c1f41368794484d36c520df1963, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
